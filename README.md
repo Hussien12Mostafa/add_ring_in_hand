@@ -1,1 +1,0 @@
-# add_ring_in_hand
